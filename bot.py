@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 
 # ======== CHANGE THESE ========
-BOT_TOKEN = 8636089571:AAFOOtrRSCodsOHINRrSHlPLrUJCM7vBePs
+BOT_TOKEN = 
 ADMIN_ID = 5565826679
 CHANNEL_USERNAME = "@Gezx_botz"
 # ==============================
